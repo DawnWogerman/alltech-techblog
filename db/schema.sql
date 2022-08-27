@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS alltech_db;
+
+CREATE DATABASE alltech_db;
